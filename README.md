@@ -1,4 +1,4 @@
-# MidnightAI Shot for Windows
+# Midnight Shot for Windows
 
 This public repository contains Windows installers and update metadata only. The application source remains in a private repository.
 
